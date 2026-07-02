@@ -1,12 +1,10 @@
 <h1 align="center">
-  Hi 👋, I'm Your Name
+  Hi 👋, I'm Muhammadsiddiq
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things🚀" />
 </p><div align="center">
-
-# 👋 Hi, I'm Muhammadsiddiq!
 
 ![](https://komarev.com/ghpvc/?username=Muhammadsiddiq&color=blue&style=for-the-badge)
 
